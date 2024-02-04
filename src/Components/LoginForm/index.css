@@ -65,3 +65,8 @@
   line-height: 16px;
   color: #ff0b37;
 }
+
+.container-ui {
+  margin-top: 12px;
+  font-family: 'Roboto';
+}
